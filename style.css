@@ -1,0 +1,30 @@
+.campus_maindiv{
+    border: 1px solid lightgrey;
+}
+.campus_maindiv img{
+    width: 100%;
+}
+.campus_maindiv h5{
+    margin: 20px;
+}
+.award_head{
+    border-radius: 10px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    padding: 15px;
+}
+.award_head i{
+    float:right
+}
+.award_text span{
+    color: orange;
+}
+.award_head span{
+    margin-right: 10px;
+}
+.new{
+    margin-bottom: 20px;
+}
+#contact iframe{
+    width: 100%;
+}
